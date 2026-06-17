@@ -14,8 +14,8 @@
 const playlist = [
   {
     id:        'song1',
-    title:     'Perfect',
-    artist:    'Ed Sheeran',
+    title:     'Sampai Jadi Debu',
+    artist:    'Banda Neira',
     file:      'music/song1.mp3',
     cover:     'assets/music-cover/song1.jpeg',
     startTime: 0,       // seconds — where playback begins
